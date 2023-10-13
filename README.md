@@ -1,4 +1,4 @@
-### Hi there 👋! Daniela here. 
+### Hi there 👋! Daniela here, probably translating, reading, writing, and working on personal projects. 
 
 <!--
 **LaVlada/LaVlada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
